@@ -1,4 +1,4 @@
-- variable declaration
+ - variable declaration
 - log statement
 - type check
 - length check
